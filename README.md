@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Tiago]
+# 👋 Hello! I'm Tiago.
 
 I'm a **web developer** passionate about creating amazing digital experiences. I primarily work with:
 
@@ -7,7 +7,7 @@ I'm a **web developer** passionate about creating amazing digital experiences. I
 
 ## 🚀 Featured Projects
 
-- **[Encontre-ME](https://github.com/orgs/PedreirosDeSoftware/repositories)**: I am the creator of ###Encontre-ME###, the social network for missing people, which emerged as a hackathon, aiming to help cities with natural disasters.
+- **[Encontre-ME](https://github.com/orgs/PedreirosDeSoftware/repositories)**: I am the creator of Encontre-ME, the social network for missing people, which emerged as a hackathon, aiming to help cities with natural disasters.
 
 ## 📫 How to Reach Me
 
