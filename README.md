@@ -1,12 +1,64 @@
-# 👋 Hello! I'm Tiago.
+# 👋 Hi, I'm Tiago Cardoso
 
-I'm a **web developer** passionate about creating amazing digital experiences. I primarily work with:
+I'm a **Full Stack Developer** passionate about building modern, scalable, and user-focused web applications. I enjoy transforming ideas into complete digital products, from intuitive user interfaces to robust backend systems.
 
-- 🌐 **HTML, CSS, and JavaScript**: Building interactive and responsive interfaces.
-- 🎨 **Figma**: Designing intuitive, user-centered layouts.
+## 🚀 Tech Stack
 
-## 📫 How to Reach Me
+### Frontend
 
-- [LinkedIn](https://www.linkedin.com/in/tiago-cardoso-059b9529b/)
+* ⚛️ React
+* 📘 TypeScript
+* 💛 JavaScript
+* 🎨 Tailwind CSS
+* 🌐 HTML5 & CSS3
+* ⚡ Vite
 
-Let's create something amazing together! 🚀
+### Backend
+
+* 🟢 Node.js
+* 🚂 Express
+* 🔺 Prisma ORM
+* 🐘 PostgreSQL
+* 🔐 JWT Authentication
+* 📂 Multer
+
+### Tools & Technologies
+
+* 🐳 Docker
+* 🌿 Git & GitHub
+* 🎨 Figma
+* ☁️ Vercel
+* 🚀 Render
+
+## 💼 Featured Project
+
+### 🍔 iMenu
+
+A complete SaaS platform for digital restaurant menus built with a modern Full Stack architecture.
+
+**Key features:**
+
+* Multi-tenant architecture
+* JWT authentication
+* Product and category management
+* Image upload
+* Shopping cart
+* WhatsApp integration
+* QR Code generation
+* Delivery area management
+* Responsive interface
+* RESTful API
+
+## 🌱 Currently Learning
+
+* Software Architecture
+* Design Patterns
+* Clean Code
+* Testing
+* React Native
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/tiago-cardoso-059b9529b/
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
